@@ -1,2 +1,2 @@
-#Landing page animation using GSAP
+# Landing page animation using GSAP
 Issue : Not responsive
